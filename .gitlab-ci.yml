@@ -1,7 +1,7 @@
 variables:
   GOPATH: /go
   GOLANG_VERSION: "1.23.0"
-  GOLINT_VERSION: "v1.60.3"
+  GOLINT_VERSION: "v1.98.8978
   GOPRIVATE: "gitlab.com/flarenetwork/*,gitlab.com/ryancollingham/*"
 
 .gocache:
